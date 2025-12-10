@@ -1,3 +1,5 @@
+https://img.shields.io/badge/build-passing-brightgreen?style=flat-square&logo=github
+
 # PhotonViewer
 
 A high-performance, GPU-accelerated image viewer for Windows 10 LTSC x64, built with .NET 8, WPF, and SkiaSharp.
